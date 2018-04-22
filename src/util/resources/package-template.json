@@ -40,6 +40,10 @@
         "path": "./snippets.json"
       },
       {
+        "language": "javascriptreact",
+        "path": "./snippets.json"
+      },
+      {
         "language": "latte",
         "path": "./snippets.json"
       },
